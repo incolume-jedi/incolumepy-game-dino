@@ -1,4 +1,4 @@
-from dino import __version__
+from incolume.py.dino import __version__
 
 
 def test_version():
