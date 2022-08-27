@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "incolume.py.dino"
-version = "0.2.0-alpha.0"
+version = "0.2.0-alpha.1"
 description = ""
 authors = ["Britodfbr <britodfbr@gmail.com>"]
 packages = [
@@ -9,6 +9,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pygame = "^2.1.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2"
